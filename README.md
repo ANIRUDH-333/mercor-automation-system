@@ -2,7 +2,7 @@
 
 This project provides a complete, automated workflow for processing contractor applications using Airtable, Python, and the Google Gemini LLM. It handles data compression, automated shortlisting, and AI-powered enrichment.
 
-For detailed, in-depth information on the architecture, setup, and customization, please see the full [**System Documentation**](./documentation.md).
+For detailed, in-depth information on the architecture, setup, and customization, please see the full [**System Documentation**](https://docs.google.com/document/d/1p3915MDNV_dimTFCrDj2X_RRr4jUkXq1NHlQNOIu25I/edit?usp=sharing).
 
 ## Features
 - **Data Compression:** Consolidates multi-table Airtable data into a single, full-fidelity JSON object.
