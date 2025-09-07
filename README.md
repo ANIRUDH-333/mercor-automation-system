@@ -16,6 +16,14 @@ For detailed, in-depth information on the architecture, setup, and customization
 - **AI:** Google Gemini
 - **Key Python Libraries:** `pyairtable`, `google-generativeai`, `python-dotenv`
 
+## Project Resources
+
+* **Airtable Base (Read-only View):** <https://airtable.com/appAxnRWmIEGakaI8/shrCNNBaKwpROCOmF>
+* **Application Forms:**
+    * [Personal Details Form](https://airtable.com/appAxnRWmIEGakaI8/pagAMqVSZvuJt72Kh/form)
+    * [Work Experience Form](https://airtable.com/appAxnRWmIEGakaI8/pagCvegJ43sjO0WuX/form)
+    * [Salary Preferences Form](https://airtable.com/appAxnRWmIEGakaI8/pagwG9HI8nEEJXqPh/form)
+
 ## Setup and Installation
 
 1.  **Clone the Repository:**
